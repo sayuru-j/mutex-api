@@ -1,0 +1,4 @@
+tensorflow
+soundfile
+librosa
+matplotlib
