@@ -2,3 +2,6 @@ tensorflow
 soundfile
 librosa
 matplotlib
+fastapi
+uvicorn
+python-multipart
